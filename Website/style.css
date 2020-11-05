@@ -1,0 +1,46 @@
+.Header {
+    background-color:rgb(0, 248, 95) ;
+    border: groove;
+    display: flex;
+    justify-content: center;
+}
+.Menu {
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.Games {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 50px;                                         
+}
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darksalmon;
+}
+body {
+    background-color: #000000;
+}
+.SpaceShooter {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    flex-wrap: wrap;
+}
+.Trex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border: ridge orchid;
+    width: 200px;
+}
+a {color: rgb(0, 255, 98)}
+a:hover {color: rgb(255, 0, 0) ;}
+a:visited { color: rgb(0, 238, 255); }
+
+
+
+
